@@ -56,7 +56,7 @@
 11. Click on **“Try it”** on the upper right and try to ask your new chatbot some questions about COVID-19 defined in Step 6 and Step 7. 
 **Important: The chatbot will be training, please wait a few minutes before testing it out.**
 
-**12. Ask at least 3 questions in the “try it out” panel. Submit the screenshot (similar to the one below) of the questions to get credit**
+12. **Ask at least 3 questions in the “try it out” panel. Submit the screenshot (similar to the one below) of the questions to get credit**
 
 
 pic
